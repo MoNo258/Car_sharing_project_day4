@@ -204,8 +204,8 @@ body {
     display: flex;
     justify-content: center;
 }
-/*.banner__btn--main{*/
-/*    margin-right: 25px;*/
+.banner__btn--main{
+    margin-right: 25px;
 }
 .banner__btn{
     width: 218px;
